@@ -14,7 +14,7 @@ export const mint = {
       'https://ambrus.s3.amazonaws.com/1681818228022_0.86_2.jpeg',
       'https://ambrus.s3.amazonaws.com/1681818228011_0.23_1.jpeg',
       'https://ambrus.s3.amazonaws.com/1681818228023_0.62_3.jpeg',
-      'https://ambrus.s3.amazonaws.com/1681818228024_0.70_4.jpeg',
+      'https://ambrus.s3.amazonaws.com/1681818228024_0.70_4.jpeg', 
     ],
   },
   NFT: {
