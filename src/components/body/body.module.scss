@@ -1,0 +1,68 @@
+.body {
+    background-image: url('~@/assets/images/bg/bg-page.png'); 
+    background-color: rgba(42,42,42,1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    .introduce-card {
+        font-size: 14px;
+        width: 540px;
+        padding: 36px;
+        background: rgba(0, 0, 0, 0.8);
+        box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+        backdrop-filter: blur(10px);
+        .content {
+            a {
+                color: #FF4125;
+                text-decoration: underline;
+            }
+        }
+    }
+    .information-card {
+        padding: 36px;
+        width: 540px;
+        background-color: rgba(0, 0, 0, 0.5);
+        .tips {
+            li {
+                text-indent: -20px;
+                padding-left: 20px;
+            }
+        }
+    }
+}
+
+.dots {
+    bottom: 25px;
+    text-align: left;
+    padding-left: 24px;
+    li {
+        margin: 0px;
+        width: auto;
+        height: auto;
+        button {
+            width: 60px;
+            background: #FFFFFF;
+            opacity: 0.5;
+            margin-right: 12px;
+            height: 2px;
+            padding: 0;
+            &::before {
+                content: '';
+                width: 0px;
+                margin: 0px;
+                height: 0px;
+            }
+        }
+    }
+}
+
+.mint-btn {
+    background: linear-gradient(90deg, #AB25CF 0%, #3AB9E1 100%);
+    border: 1px solid #FFFFFF;
+    box-shadow: 0px 0px 8px 1px #8918B1, inset 4px 0px 10px rgba(0, 0, 0, 0.15);
+}
+
+.dialog-body {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px);
+}

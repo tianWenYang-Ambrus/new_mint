@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container {
+    /* background-image: url('../assets/images/bg/bg-page.png'); */
+    /* background-color: rgba(42,42,42,1); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Montserrat';
+}
+.slick-active button {
+    opacity: 1 !important;
+}

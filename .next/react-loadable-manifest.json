@@ -1,0 +1,36 @@
+{
+  "../../node_modules/.pnpm/@wagmi+connectors@0.3.2_4uby6chcm2hq7rmxnjzem4rhoy/node_modules/@wagmi/connectors/dist/coinbaseWallet.js -> @coinbase/wallet-sdk": {
+    "id": 4471,
+    "files": [
+      "static/chunks/471.20d3cf3e9b004c7f.js",
+      "static/chunks/538.c8970237cdec35b0.js"
+    ]
+  },
+  "../../node_modules/.pnpm/@wagmi+connectors@0.3.2_4uby6chcm2hq7rmxnjzem4rhoy/node_modules/@wagmi/connectors/dist/walletConnect.js -> @walletconnect/ethereum-provider": {
+    "id": 93287,
+    "files": [
+      "static/chunks/573.03b7be75d69fdc3f.js",
+      "static/chunks/287.b3205c648040af30.js",
+      "static/chunks/985.5eba68e106530036.js"
+    ]
+  },
+  "../../node_modules/.pnpm/@wagmi+connectors@0.3.2_4uby6chcm2hq7rmxnjzem4rhoy/node_modules/@wagmi/connectors/dist/walletConnectLegacy.js -> @walletconnect/legacy-provider": {
+    "id": 58323,
+    "files": [
+      "static/chunks/573.03b7be75d69fdc3f.js",
+      "static/chunks/323.695f28dd87b36d2d.js"
+    ]
+  },
+  "../../node_modules/.pnpm/@walletconnect+ethereum-provider@2.4.10_6koizmyzbfdbyz6xciipkjpgny/node_modules/@walletconnect/ethereum-provider/dist/index.es.js -> @web3modal/standalone": {
+    "id": 39873,
+    "files": [
+      "static/chunks/873.0a62d43a5bffa5a2.js"
+    ]
+  },
+  "../../node_modules/.pnpm/@web3modal+standalone@2.2.0_react@18.2.0/node_modules/@web3modal/standalone/dist/index.js -> @web3modal/ui": {
+    "id": 23384,
+    "files": [
+      "static/chunks/384.b3430e607b3400c4.js"
+    ]
+  }
+}
